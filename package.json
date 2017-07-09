@@ -1,0 +1,25 @@
+{
+  "name": "clean-code",
+  "version": "1.0.0",
+  "description": "An example of a CleanCode Refactoring",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "karma start"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "jasmine": "^2.6.0",
+    "jasmine-jquery": "^2.1.1",
+    "karma": "^1.7.0",
+    "karma-chrome-launcher": "^2.1.1",
+    "karma-jasmine": "^1.1.0",
+    "karma-jasmine-jquery": "^0.1.1",
+    "mocha": "^3.3.0"
+  },
+  "dependencies": {
+    "jquery": "^3.2.1",
+    "karma-jquery": "^0.2.0",
+    "karma-mocha-reporter": "^2.2.3"
+  }
+}
