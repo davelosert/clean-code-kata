@@ -1,6 +1,6 @@
 # Clean Code Kata
 This is a little Kata for practicing some simple principles of Clean Code.
-I created this Kata for a Clean Code Presentation which can be found [here](https://slides.com/davel/clean-code).
+I created this Kata for a Clean Code Presentation which can be found [here](https://slides.com/dave_losert/clean-code).
 
 ## Setup
 1. Checkout this repository (or clone it if you want to commit your solution)
@@ -13,7 +13,7 @@ The Goal of this Kata is to refactor the Code in **src/refactor_code.js** to som
 
 Use the tests to not break anything! Execute them after every change!
 
-You can just try it on your own. If you need tips or help, either have a look at the tips in the [presentation](http://slides.com/davel/clean-code#/4/2) (use down arrow to go to the next) or simply follow the principles and instructions below.
+You can just try it on your own. If you need tips or help, either have a look at the tips in the [presentation](http://slides.com/dave_losert/clean-code#/4/2) (use down arrow to go to the next) or simply follow the principles and instructions below.
 
 ## Principles & Steps
 1. **Use better names:** E.g. replace `$(this)` with `const $hoveredLink = $(this)` and use the new variable in all places. When extracting functions, take a moment to find a name that shows what it DOES and not HOW it does it.
