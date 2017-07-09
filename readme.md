@@ -3,9 +3,10 @@ This is a little Kata for practicing some simple principles of Clean Code.
 I created this Kata for a Clean Code Presentation which can be found [here](https://slides.com/davel/clean-code).
 
 ## Setup
-1. Execute `npm install` or `yarn` to install al dependencies.
-2. Run the tests with `npm run test` or `yarn test`;
-3. Start refactoring in the _refactor_code.js_ File (this is the file that gets tested)
+1. Checkout this repository (or clone it if you want to commit your solution)
+2. Execute `npm install` or `yarn` to install al dependencies.
+3. Run the tests with `npm run test` or `yarn test`;
+4. Start refactoring in the _refactor_code.js_ File (this is the file that gets tested)
 
 ## How it works?
 The Goal of this Kata is to refactor the Code in **src/refactor_code.js** to something better readable.
